@@ -1,33 +1,23 @@
 # APP KOLPING
 
 
+✅ = Módulos que se pueden desarrollar sin integración con el sistema Kolping.
+❗️ = Módulos que requieren implementación por parte de Kolping.
 
-1. Usuarios.
-2. Roles y permisos.
-3. Sucursales.
-4. Medicos, especialidades, horarios y costos.
-5. Compra de ficha.
-6. Farmacia carrito de compras.
-7. Farmacia Cotizacion de reseta.
-8. Optica a domicilio agenda cita por whatsapp y se registra en el sistema.
-9. Laboratorio a domicilio agenda cita por whatsapp y se registra en el sistema.
-10. Horarios, costos y venta de otros servicios ( Imagenologia, Papanicolau, etc. )
-11. App para rastreo de conductores y asignacion de trabajos.
-12. Pago pasarela QR.
-13. Facturacion.
-14. Sistema de puntos de fidelizacion.
-15. Buzon de sugerencias.
-16. Alertas y publicidad.
+Usuarios. ✅
+Roles y permisos. ✅
+Sucursales. ✅
+Farmacia: carrito de compras. ✅
+Farmacia: Cotización de recetas. ✅
+Óptica a domicilio: agenda cita por WhatsApp y se registra en el sistema. ✅
+Laboratorio a domicilio: agenda cita por WhatsApp y se registra en el sistema. ✅
+App para rastreo de conductores y asignación de trabajos. ✅
+Sistema de puntos de fidelización. ✅
+Buzón de sugerencias. ✅
+Alertas y publicidad. ✅
+Médicos, especialidades, horarios y costos. ❗️
+Horarios, costos y venta de otros servicios (Imagenología, Papanicolau, etc.). ❗️
+Agendar cita con especialista y generar cobro. ❗️
+Pago con pasarela QR. ❗️
+Facturación. ❗️
 
-
-
-Las funcionalidades de la aplicación por etapas son:
-
-## Etapa 1
-**1. Registro de usuario:** Registro de usuarios o futuros clientes que harán uso de la aplicación.
-
-**2. Registro de sucursales o centros médicos:** Nombre, descripción dirección, nro teléfono, nro de interno, nro de celular, coordenadas, foto.
-
-**3. Registro de especialidades:** Cada sucursal o centro médico cuenta con diferentes especialidades.
-
-**4. Registro de médicos:** Registro de .
