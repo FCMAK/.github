@@ -1,17 +1,5 @@
 # APP KOLPING
 
-Las funcionalidades de la aplicación por etapas son:
-
-## Etapa 1
-**1. Registro de usuario:** Registro de usuarios o futuros clientes que harán uso de la aplicación.
-
-**2. Registro de sucursales o centros médicos:** Nombre, descripción dirección, nro teléfono, nro de interno, nro de celular, coordenadas, foto.
-
-**3. Registro de especialidades:** Cada sucursal o centro médico cuenta con diferentes especialidades.
-
-**4. Registro de médicos:** Registro de .
-
-
 
 
 1. Usuarios.
@@ -30,3 +18,16 @@ Las funcionalidades de la aplicación por etapas son:
 14. Sistema de puntos de fidelizacion.
 15. Buzon de sugerencias.
 16. Alertas y publicidad.
+
+
+
+Las funcionalidades de la aplicación por etapas son:
+
+## Etapa 1
+**1. Registro de usuario:** Registro de usuarios o futuros clientes que harán uso de la aplicación.
+
+**2. Registro de sucursales o centros médicos:** Nombre, descripción dirección, nro teléfono, nro de interno, nro de celular, coordenadas, foto.
+
+**3. Registro de especialidades:** Cada sucursal o centro médico cuenta con diferentes especialidades.
+
+**4. Registro de médicos:** Registro de .
