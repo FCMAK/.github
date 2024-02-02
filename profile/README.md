@@ -1,8 +1,8 @@
 # APP KOLPING
 
 
-✅ = Módulos que se pueden desarrollar sin integración con el sistema Kolping.
-❗️ = Módulos que requieren implementación por parte de Kolping.
+- ✅ = Módulos que se pueden desarrollar sin integración con el sistema Kolping.
+- ❗️ = Módulos que requieren implementación por parte de Kolping.
 
 * Usuarios. ✅
 * Roles y permisos. ✅
