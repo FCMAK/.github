@@ -3,6 +3,9 @@
 
 - ✅ = Módulos que se pueden desarrollar sin integración con el sistema Kolping.
 - ❗️ = Módulos que requieren implementación por parte de Kolping.
+- ⚠️ = Modulos que no estan desarrollados.
+- ♻️ = Modulos que hay que hacer nuevamente con la integracion nueva.
+
 
 * Usuarios. ✅
 * Roles y permisos. ✅
@@ -11,10 +14,10 @@
 * Farmacia: Cotización de recetas. ✅
 * Óptica a domicilio: agenda cita por WhatsApp y se registra en el sistema. ✅
 * Laboratorio a domicilio: agenda cita por WhatsApp y se registra en el sistema. ✅
-* App para rastreo de conductores y asignación de trabajos. ✅
-* Sistema de puntos de fidelización. ✅
-* Buzón de sugerencias. ✅
-* Alertas y publicidad. ✅
+* App para rastreo de conductores y asignación de trabajos. ✅⚠️
+* Sistema de puntos de fidelización. ✅⚠️
+* Buzón de sugerencias. ✅⚠️
+* Alertas y publicidad. ✅⚠️
 * Médicos, especialidades, horarios y costos. ❗️
 * Horarios, costos y venta de otros servicios (Imagenología, Papanicolau, etc.). ❗️
 * Agendar cita con especialista y generar cobro. ❗️
