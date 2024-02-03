@@ -19,7 +19,8 @@
 * Buzón de sugerencias. ✅⚠️
 * Alertas y publicidad. ✅⚠️
 * Médicos, especialidades, horarios y costos. ❗️♻️
-* Horarios, costos y venta de otros servicios (Imagenología, Papanicolau, etc.). ❗️♻️
+* Horarios, costos de otros servicios (Imagenología, Papanicolau, etc.). ❗️♻️
+* Agendar otros servicios y generar cobro. ❗️
 * Agendar cita con especialista y generar cobro. ❗️
 * Pago con pasarela QR. ❗️
 * Facturación. ❗️
