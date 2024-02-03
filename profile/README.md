@@ -36,3 +36,7 @@ La Wiki es el lugar donde se encuentran todas las novedades sobre el repositorio
 Aquí puedes ingresar a nuestro [Figma](https://www.figma.com/file/OjgE75SCivBlLQ6MsMQt2m/Kolping?type=design&node-id=0-1&mode=design&t=R4thjRCpJea4Rzo1-0)
 
 El figma es el lugar donde se encuentra el diseño de la app Kolping
+
+
+Foto de las tablas DBF que nos dieron en la anterior integracion.
+![image](https://github.com/FCMAK/.github/assets/35882906/54d123bf-6e1a-445f-8cc6-f0de337fa3a5)
