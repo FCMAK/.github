@@ -29,6 +29,6 @@ Aquí puedes ingresar a nuestra [Wiki](https://github.com/FCMAK/.github/wiki)
 La Wiki es el lugar donde se encuentran todas las novedades sobre el repositorio Kolipng. 
 
 
-Aquí puedes ingresar a nuestro [Figma](https://github.com/FCMAK/.github/wiki](https://www.figma.com/file/OjgE75SCivBlLQ6MsMQt2m/Kolping?type=design&node-id=0-1&mode=design&t=R4thjRCpJea4Rzo1-0)https://www.figma.com/file/OjgE75SCivBlLQ6MsMQt2m/Kolping?type=design&node-id=0-1&mode=design&t=R4thjRCpJea4Rzo1-0)
+Aquí puedes ingresar a nuestro [Figma](https://www.figma.com/file/OjgE75SCivBlLQ6MsMQt2m/Kolping?type=design&node-id=0-1&mode=design&t=R4thjRCpJea4Rzo1-0)
 
 El figma es el lugar donde se encuentra el diseño de la app Kolping
