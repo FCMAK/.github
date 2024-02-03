@@ -18,8 +18,8 @@
 * Sistema de puntos de fidelización. ✅⚠️
 * Buzón de sugerencias. ✅⚠️
 * Alertas y publicidad. ✅⚠️
-* Médicos, especialidades, horarios y costos. ❗️
-* Horarios, costos y venta de otros servicios (Imagenología, Papanicolau, etc.). ❗️
+* Médicos, especialidades, horarios y costos. ❗️♻️
+* Horarios, costos y venta de otros servicios (Imagenología, Papanicolau, etc.). ❗️♻️
 * Agendar cita con especialista y generar cobro. ❗️
 * Pago con pasarela QR. ❗️
 * Facturación. ❗️
