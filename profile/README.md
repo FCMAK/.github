@@ -38,5 +38,5 @@ Aquí puedes ingresar a nuestro [Figma](https://www.figma.com/file/OjgE75SCivBlL
 El figma es el lugar donde se encuentra el diseño de la app Kolping
 
 
-Foto de las tablas DBF que nos dieron en la anterior integracion. ( En el diagrama se observa los Medicos, Especialidades, Horarios y costos.
+Foto de las tablas DBF que nos dieron en la anterior integracion. ( En el diagrama se observa los Medicos, Especialidades, Horarios y costos.)
 ![image](https://github.com/FCMAK/.github/assets/35882906/54d123bf-6e1a-445f-8cc6-f0de337fa3a5)
