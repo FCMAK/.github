@@ -3,4 +3,4 @@
 ##  Introduccion
 
 
-[Visite nuestra wiki](https://github.com/FCMAK/.github/wiki/)
+[Visita nuestra wiki](https://github.com/FCMAK/.github/wiki/)
