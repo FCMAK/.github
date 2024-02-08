@@ -1,4 +1,4 @@
-# APP KOLPING
+![image](https://github.com/FCMAK/.github/assets/7370358/cac42817-5bb7-492c-982c-81dceb2d1e17)# APP KOLPING
 
 
 - ✅ = Módulos que se pueden desarrollar sin integración con el sistema Kolping.
@@ -26,7 +26,18 @@
 * Facturación. ❗️⚠️
 
 
-## Servicios pendientes
+## Costo 
+
+|Cuota|Fecha|Descripcion|monto|estado|
+|-----|-----|-----------|-----|------|
+|1|8/15/2021|Etapa 1|$2,900.00	|✅|
+|2|9/15/2021|Etapa 1|$2,900.00	|✅|
+|3|10/15/2021|Etapa 1|$2,900.00	|✅|
+|4|11/15/2021|Etapa 1|$2,900.00	|⚠️|
+|5|12/15/2021|Etapa 2|$2,320.00	|⚠️|
+|6|1/15/2022|Etapa 2|$2,320.00	|⚠️|
+|7|2/15/2022|Etapa 2|$2,320.00	|⚠️|
+
 
 
 
