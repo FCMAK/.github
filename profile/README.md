@@ -1,5 +1,4 @@
-![image](https://github.com/FCMAK/.github/assets/7370358/cac42817-5bb7-492c-982c-81dceb2d1e17)# APP KOLPING
-
+# APP KOLPING
 
 - ✅ = Módulos que se pueden desarrollar sin integración con el sistema Kolping.
 - ❗️ = Módulos que requieren implementación por parte de Kolping.
@@ -26,7 +25,7 @@
 * Facturación. ❗️⚠️
 
 
-## Costo 
+## Costo trato inicial
 
 |Cuota|Fecha|Descripcion|monto|estado|
 |-----|-----|-----------|-----|------|
@@ -37,8 +36,9 @@
 |5|12/15/2021|Etapa 2|$2.320,00	|❌|
 |6|1/15/2022|Etapa 2|$2.320,00	|❌|
 |7|2/15/2022|Etapa 2|$2.320,00	|❌|
+||||$ 9.860,00	||
 
-### Saldo: $ 9.860,00
+
 ### Costo nueva integración $ 140.00
 
 ### TOtal monto pendiente $ 10.000,00
