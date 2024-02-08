@@ -1,3 +1,6 @@
 # Fundacion Centro Multifuncional Adolfo Kolping
+![image](https://avatars.githubusercontent.com/u/158533819?s=200&v=4)
+##  Introduccion
 
-![image](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/a3e90cca-dc02-4a91-a1af-32c4899f9891)
+
+
